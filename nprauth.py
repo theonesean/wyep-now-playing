@@ -76,7 +76,3 @@ if not tokens_exist:
         print(token_result['message'])
         print()
         sys.exit(0)
-
-# NPR SONG FUNCTIONALITY
-
-# http://composer.nprstations.org/widgets/iframe/searchlist.html?station=50e451b6a93e91ee0a00028e&visible=searchlist
