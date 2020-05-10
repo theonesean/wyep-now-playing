@@ -12,4 +12,4 @@ This repo also contains Python scripts for authenticating an app with NPR's API,
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Contribution to this project is governed by the Contributor Covenant version 2.0.
+Contribution to this project is governed by the [Contributor Covenant version 2.0](https://www.contributor-covenant.org/).
