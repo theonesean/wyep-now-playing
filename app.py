@@ -55,17 +55,6 @@ def sendTweet(text):
     s = api.PostUpdate(text)
     print('Posted tweet "' + s.text + '".')
 
-
-    # twitter = OAuth1Session(TW_ACCESS_TOKEN,
-    #                         client_secret=TW_ACCESS_SECRET,
-    #                         resource_owner_key='penis',
-    #                         resource_owner_secret='man')
-
-    # url = 'https://api.twitter.com/1.1/statuses/update.json?status=' + requests.utils.quote(text)
-    # r = twitter.post(url)
-
-    # print(r.json())
-
 # command line arg will disable tweet on startup
 if (len(sys.argv) > 1):
     curr_track = getNowPlaying()
